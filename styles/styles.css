@@ -1,0 +1,27 @@
+body{
+    background-color: azure
+}
+
+h1 {
+    color: pink;
+    text-align: center;
+}
+
+h2{
+    color: pink;
+    text-align: center;
+    
+}
+
+.primaryimage{
+
+    width: 15%;
+    height: 300px;
+     
+}
+
+.name{
+    color: blueviolet;
+
+}
+
